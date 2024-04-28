@@ -1,0 +1,16 @@
+{
+    "name": "roberson/app-crm",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roberson Mariani",
+            "email": "roberson.mariani@gmail.com"
+        }
+    ],
+    "require": {}
+}
